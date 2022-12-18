@@ -1,4 +1,4 @@
-# Read Hanwai-Gasdetectors Using ESP32
+# Read Hanwai-Gasdetectors Using ESP32 Arduino
 MODBUS reading to JSON FORMAT MQTT
 DinithM
 
